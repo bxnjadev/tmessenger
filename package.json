@@ -1,0 +1,21 @@
+{
+  "name": "tmessenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "@hyperloris/tyson": "^1.4.0",
+    "@types/redis": "^2.8.31",
+    "redis": "^3.1.2",
+    "typescript-json-serializer": "^3.4.4"
+  }
+}
